@@ -36,6 +36,6 @@ jobs:
         with:
           draft: true # if creating a new release, make it a draft
           files: |
-            ./DebugNeos/bin/Release/net462/DebugNeos.dll
+            ./DebugNeos/bin/Release/net472/DebugNeos.dll
           fail_on_unmatched_files: true
 
